@@ -1,1 +1,1 @@
-# Computational-Semantics-and-Semantic-Parsing-questions-queries-
+# Computational-Semantics-and-Semantic-Parsing
